@@ -1,2 +1,2 @@
 # Remote
-IsAbortCurWork=1
+IsAbortCurWork=0
